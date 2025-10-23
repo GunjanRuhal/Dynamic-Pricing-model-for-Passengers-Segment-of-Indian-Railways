@@ -29,9 +29,7 @@ The final price prediction is driven by an **Ensemble Model** combining two robu
 1.  **Random Forest Regressor**
 2.  **XGBoost Regressor (Tuned)**
 
-The **Ensemble Model (RF + XGBoost Average)** achieved the best performance:
-* **R² Score (Actual Scale):** **0.9834**
-* **RMSE (Actual Scale):** **₹181.76**
+The **Ensemble Model (RF + XGBoost Average)** achieved the best performance
 
 ### Dynamic Price Logic (Surge & Discount)
 
